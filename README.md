@@ -86,8 +86,3 @@ Nobody wants to read a manual before trying a demo, especially if someone's watc
 - Swipe gestures for next/previous track
 - A virtual object overlaid on the hand, moving toward an AR-style interaction
 - Smoothing gesture detection across several frames to cut down on small jitters
-
-## About
-
-Built by [Your Name], Informatics student at University of Washington.
-[GitHub] · [LinkedIn] · [Portfolio site]
