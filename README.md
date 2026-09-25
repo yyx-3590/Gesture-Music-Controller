@@ -3,7 +3,7 @@
 Control music playback and volume with hand gestures, using your webcam. No mouse, no keyboard, just your hand.
 
 ## Demo
-
+[▶️ Watch the Demo Video](https://drive.google.com/file/d/1az5ZfwlbXhRonJDpGEtwKlIy7BQTMefv/view?usp=share_link)
 
 
 ## Features
